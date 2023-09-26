@@ -1,14 +1,19 @@
-### Hey y'all! 👋
+## Hi, I'm Stephanie! 👋
 
-I'm Stephanie _(or Stephan, both is fine)_!
+### about me
+- 💻 I'm currently an Information Systems undergraduate student
+- 💡 I have a keen interest in cybersecurity, full-stack development, and data engineering.
+- 🔮 Pronouns: She/They
+
+### interests in development
+Python | MongoDB | PowerBI | MachineLearning
 
 
-#### ✨A little more about me✨
-- 🔮Pronouns: She/They
-- 💻Currently working with: HTML, CSS, and JS
-- 🕹️Passionate about technology and art
-- 🖖Random fact: Huge Star Trek fan
+### evolving knowledge
+HTML5 | CSS | JavaScript
 
+Feel free to connect with me and explore my projects. Let's collaborate and learn together! 🚀
 
-#### 💬How to reach me:
-Email: stephanie.candido42@gmail.com
+📧 *e-mail: stephanie.candido42@gmail.com*
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ste-coding&show_icons=false&theme=radical)
