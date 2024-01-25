@@ -1,14 +1,20 @@
-<h1 align="center">Hello world! I'm Stéphanie Cândido</h1>
-<h3 align="center">an Information Systems undergraduate student at UFRPE</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=764E98&center=true&vCenter=true&random=false&width=435&lines=print(%22hello%2C+world!+i'm+st%C3%A9phanie%22);passionate+learner+;coding+my+way+through+binary+jungles+" alt="Typing SVG" />
+  </a>
+</h1>
+
+
+<h3 align="center">Info Systems undergrad @ UFRPE 🚀</h3>
 
 - 🌱 currently learning: **OSQUERY**
 
-- 💬 interests in development: **PowerBI | MachineLearning**
+- 💬 interests in development: **PowerBI | Web Application Firewalls**
 
 - 📫 e-mail: **stephanie.candido42@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stephanie-candido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephanie-candido" height="30" width="40" /></a>
 </p>
