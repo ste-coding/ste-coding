@@ -1,3 +1,4 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=ste-coding&color=764E98"><br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=764E98&center=true&vCenter=true&random=false&width=435&lines=print(%22hello%2C+world!+i'm+st%C3%A9phanie%22);passionate+learner+;coding+my+way+through+binary+jungles+" alt="Typing SVG" />
