@@ -8,8 +8,7 @@
 <ul>
   <li align="left">info systems undergrad @ UFRPE 🚀</li>
   <li align="left">student @ Programadores do Amanhã 👩🏽‍💻</li>
-  <li>learning about <strong>OSQUERY</strong> and <strong>application layer</strong> in OSI model</li>
-  <li> interests in development: <strong>PowerBI</strong> | <strong>Web Application Firewalls</strong></li>
+  <li> interests in development: <strong>Machine Learning Operations</strong> | <strong>Data Mining</strong></li>
 </ul>
 
 <br>
@@ -22,12 +21,9 @@
     <img src="https://skillicons.dev/icons?i=js,css,html,nodejs,python,mongodb,git,react&perline=4"/>
   </div>
 
-  <div style="float: right; width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ste-coding&theme=midnight-purple&layout=compact" alt="Top Langs">
-  </div>
-
   <div style="clear: both; margin-top: 20px;";>
-    <img src="https://github-readme-stats.vercel.app/api?username=ste-coding&theme=midnight-purple&show_icons=true" alt="Github stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ste-coding&theme=midnight-purple&show_icons=true" alt="Github stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ste-coding&theme=midnight-purple&layout=compact" alt="Top Langs">
   </div>
 </div>
 
@@ -39,7 +35,6 @@
 <a href="mailto:stephanie.candido42@gmail.com" target="_blank">
   <img align="left" src="https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br> <!-- Add a line break to move to the next line -->
 <br>
 
 
