@@ -8,21 +8,18 @@
   <img src="https://komarev.com/ghpvc/?username=ste-coding&color=764E98" alt="Profile Views" />
 </div>
 
-<!-- about me section-->
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
-    <ul>
-      <li>💻🎓 Information systems undergrad @ UFRPE</li>
-      <li>👩🏾‍💻🚀 Student @ Programadores do Amanhã</li>
-      <li>📊💽 Learning data analysis @ Programaria</li>
-      <li>📖🔎 Interests in development: <strong>Machine Learning Operations</strong> | <strong>Data Mining</strong></li>
-    </ul>
-  </div>
+<!-- about me section -->
+<div>
+  <!-- GIF aligned right -->
+  <img src="img/main-page-gif.gif" height="280em" align="right" alt="Animated GIF" />
   
-  <!-- gif section -->
-  <div style="flex: 1; text-align: right;">
-    <img src="img/main-page-gif.gif" height="280em" alt="Animated GIF" />
-  </div>
+  <!-- List content -->
+  <ul>
+    <li>💻🎓 Information systems undergrad @ UFRPE</li>
+    <li>👩🏾‍💻🚀 Student @ Programadores do Amanhã</li>
+    <li>📊💽 Learning data analysis @ Programaria</li>
+    <li>📖🔎 Interests in development: <strong>Machine Learning Operations</strong> | <strong>Data Mining</strong></li>
+  </ul>
 </div>
 
 <br>
